@@ -28,3 +28,4 @@ This acts both as a changelog and as a history log. Only the latest version will
 
 # Credits
 * hazelify (`*you're#7036` on Discord)
+* [icons8](https://icons8.com) for app icons
