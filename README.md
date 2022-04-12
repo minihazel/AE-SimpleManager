@@ -1,8 +1,8 @@
 # AE-SimpleManager by hazel
 A simplistic mod manager for the JET AE project developed by hazel. Designed to easily enable/disable toggle mods from a local PC-hosted server.
 
-![alt text](https://i.imgur.com/OoCR8jN.png)
-![alt text](https://i.imgur.com/pRyGleX.png)
+![alt text](https://i.imgur.com/XVAt957.png)
+![alt text](https://i.imgur.com/epTq7hQ.png)
 
 # Info
 This is an AE-exclusive app which allows the user to toggle enable/disable mods on their singleplayer server in just a couple of clicks.
